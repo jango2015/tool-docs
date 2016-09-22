@@ -1,0 +1,696 @@
+﻿$axure.loadCurrentPage({
+  "url":"授权码使用界面（无授权码）.html",
+  "generationDate":new Date(1416631107640.63),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2b6d8229ee554e6e8d95d462c2ea1149",
+    "type":"Axure:Page",
+    "name":"授权码使用界面（无授权码）",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c095182440094d8eb982b9de65b2f80d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":30,
+              "y":20},
+            "size":{
+              "width":380,
+              "height":744},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0838d4ee34284bbf9b25dd3641929c16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":30,
+                  "y":20},
+                "size":{
+                  "width":380,
+                  "height":744},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买授权码/u0.png"}},
+{
+          "id":"81612aa2d7a140baa7cdda0a3ef8e10e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":62,
+              "y":163},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"795f12a37383465fb4bad2861b2b59bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":62,
+                  "y":163},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买授权码/u2.png"}},
+{
+          "id":"ef4073f2571042a2bace31c9d619a1fe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":141,
+              "y":193},
+            "size":{
+              "width":150,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7350c4740214a54a4701ddfad914b07",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":141,
+                  "y":193},
+                "size":{
+                  "width":150,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ebc4eaac62ab4bb98afa75a67cebd943",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":70,
+              "y":400},
+            "size":{
+              "width":300,
+              "height":130}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f431f6a80f454bfa972b98e3065fb521",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":70,
+                  "y":400},
+                "size":{
+                  "width":300,
+                  "height":130}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u6.png"}},
+{
+          "id":"636f787d948a4d7189d6c62982887091",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":70,
+              "y":540},
+            "size":{
+              "width":300,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"36cdff1978b24b3f8517c5d3f032a9ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":70,
+                  "y":540},
+                "size":{
+                  "width":300,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买授权码/u14.png"}},
+{
+          "id":"642ede9c390e48d5bb5da38c4f076795",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":250},
+            "size":{
+              "width":260,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"45667d9fe4874ce9a6ef381905cd3b16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":250},
+                "size":{
+                  "width":260,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（有授权码）/u10.png"}},
+{
+          "id":"1d615693f7f145128002acdf0077d904",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":70,
+              "y":250},
+            "size":{
+              "width":300,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df067213836e4541a586cedbe6f79bd7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":70,
+                  "y":250},
+                "size":{
+                  "width":300,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（有授权码）/u12.png"}},
+{
+          "id":"9e0c6414db7340248a5e014db5884c7d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":70,
+              "y":289},
+            "size":{
+              "width":300,
+              "height":52}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb43932a99164674a8783da8e63938c9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":70,
+                  "y":289},
+                "size":{
+                  "width":300,
+                  "height":52}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u14.png"}},
+{
+          "id":"fbb9ff87907e4452a2122a54f591c5f2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":310},
+            "size":{
+              "width":260,
+              "height":117}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1ed2cd3001cf45b1a30c7648a808ea0c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":310},
+                "size":{
+                  "width":260,
+                  "height":117}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u16.png"}},
+{
+          "id":"30a9ff86616d4de1b9c595db17444a3e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":180,
+              "y":351},
+            "size":{
+              "width":80,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e3f3a7ff9e14f4bb81b48703e5707c8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":180,
+                  "y":351},
+                "size":{
+                  "width":80,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 购买授权码",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购买授权码.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u18.png"}},
+{
+          "id":"61269b0b1c4a4e3e96160cdcd7065051",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":280,
+              "y":351},
+            "size":{
+              "width":90,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35dda7f88bac4e538d7d924830388fe1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":280,
+                  "y":351},
+                "size":{
+                  "width":90,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 授权码使用界面（有授权码）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"授权码使用界面（有授权码）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u20.png"}},
+{
+          "id":"18a977c9bc5e4b5b930d4150c8b147d4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":70,
+              "y":351},
+            "size":{
+              "width":80,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5c11088769b941c1a536e7169f132790",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":70,
+                  "y":351},
+                "size":{
+                  "width":80,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u18.png"}},
+{
+          "id":"97d1272e47144bed818a3ff82ae9fb15",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":435,
+              "y":427},
+            "size":{
+              "width":250,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7141747da0884486a5c0ffbb391c8404",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":435,
+                  "y":427},
+                "size":{
+                  "width":250,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u22.png"}},
+{
+          "id":"662c758c5ddb46cb9197be1682403a8c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":525,
+              "y":477},
+            "size":{
+              "width":70,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"905bbab757934520a813d0b63a9bf230",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":525,
+                  "y":477},
+                "size":{
+                  "width":70,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 用户信息登记",
+                      "target":{
+                        "targetType":"page",
+                        "url":"用户信息登记.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/刷卡器获取授权码/u14.png"}},
+{
+          "id":"9d699dc2889f41159588b92591a03e8c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":430,
+              "y":517},
+            "size":{
+              "width":260,
+              "height":83}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3b6f2483d5ca4399af6954b5e5ec3850",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":430,
+                  "y":517},
+                "size":{
+                  "width":260,
+                  "height":83}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/授权码使用界面（无授权码）/u28.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c095182440094d8eb982b9de65b2f80d":{
+      "scriptId":"u0"},
+    "0838d4ee34284bbf9b25dd3641929c16":{
+      "scriptId":"u1"},
+    "81612aa2d7a140baa7cdda0a3ef8e10e":{
+      "scriptId":"u2"},
+    "795f12a37383465fb4bad2861b2b59bc":{
+      "scriptId":"u3"},
+    "ef4073f2571042a2bace31c9d619a1fe":{
+      "scriptId":"u4"},
+    "c7350c4740214a54a4701ddfad914b07":{
+      "scriptId":"u5"},
+    "ebc4eaac62ab4bb98afa75a67cebd943":{
+      "scriptId":"u6"},
+    "f431f6a80f454bfa972b98e3065fb521":{
+      "scriptId":"u7"},
+    "636f787d948a4d7189d6c62982887091":{
+      "scriptId":"u8"},
+    "36cdff1978b24b3f8517c5d3f032a9ac":{
+      "scriptId":"u9"},
+    "642ede9c390e48d5bb5da38c4f076795":{
+      "scriptId":"u10"},
+    "45667d9fe4874ce9a6ef381905cd3b16":{
+      "scriptId":"u11"},
+    "1d615693f7f145128002acdf0077d904":{
+      "scriptId":"u12"},
+    "df067213836e4541a586cedbe6f79bd7":{
+      "scriptId":"u13"},
+    "9e0c6414db7340248a5e014db5884c7d":{
+      "scriptId":"u14"},
+    "fb43932a99164674a8783da8e63938c9":{
+      "scriptId":"u15"},
+    "fbb9ff87907e4452a2122a54f591c5f2":{
+      "scriptId":"u16"},
+    "1ed2cd3001cf45b1a30c7648a808ea0c":{
+      "scriptId":"u17"},
+    "30a9ff86616d4de1b9c595db17444a3e":{
+      "scriptId":"u18"},
+    "8e3f3a7ff9e14f4bb81b48703e5707c8":{
+      "scriptId":"u19"},
+    "61269b0b1c4a4e3e96160cdcd7065051":{
+      "scriptId":"u20"},
+    "35dda7f88bac4e538d7d924830388fe1":{
+      "scriptId":"u21"},
+    "18a977c9bc5e4b5b930d4150c8b147d4":{
+      "scriptId":"u22"},
+    "5c11088769b941c1a536e7169f132790":{
+      "scriptId":"u23"},
+    "97d1272e47144bed818a3ff82ae9fb15":{
+      "scriptId":"u24"},
+    "7141747da0884486a5c0ffbb391c8404":{
+      "scriptId":"u25"},
+    "662c758c5ddb46cb9197be1682403a8c":{
+      "scriptId":"u26"},
+    "905bbab757934520a813d0b63a9bf230":{
+      "scriptId":"u27"},
+    "9d699dc2889f41159588b92591a03e8c":{
+      "scriptId":"u28"},
+    "3b6f2483d5ca4399af6954b5e5ec3850":{
+      "scriptId":"u29"}}});
